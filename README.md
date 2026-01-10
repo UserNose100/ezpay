@@ -269,14 +269,14 @@ storage:
 
 | 文档 | 说明 |
 |------|------|
-| [USER_GUIDE.md](./USER_GUIDE.md) | 用户手册 - 管理员和商户操作指南 |
-| [BUILD.md](./BUILD.md) | 构建指南 - 开发/生产模式，跨平台编译 |
-| [DEPLOY.md](./DEPLOY.md) | 部署指南 - Systemd、Nginx、Docker |
-| [API.md](./API.md) | API接口文档 - 彩虹易支付/V免签兼容接口 |
-| [ARCHITECTURE.md](./ARCHITECTURE.md) | 架构设计 - 项目结构、核心模块 |
-| [I18N.md](./I18N.md) | 国际化指南 - 多语言支持、翻译开发 |
-| [COMPARE_EPAY.md](./COMPARE_EPAY.md) | 彩虹易支付对比与迁移 |
-| [COMPARE_VMQ.md](./COMPARE_VMQ.md) | V免签对比与迁移 |
+| [USER_GUIDE.md](./docs/USER_GUIDE.md) | 用户手册 - 管理员和商户操作指南 |
+| [BUILD.md](./docs/BUILD.md) | 构建指南 - 开发/生产模式，跨平台编译 |
+| [DEPLOY.md](./docs/DEPLOY.md) | 部署指南 - Systemd、Nginx、Docker |
+| [API.md](./docs/API.md) | API接口文档 - 彩虹易支付/V免签兼容接口 |
+| [ARCHITECTURE.md](./docs/ARCHITECTURE.md) | 架构设计 - 项目结构、核心模块 |
+| [I18N.md](./docs/I18N.md) | 国际化指南 - 多语言支持、翻译开发 |
+| [COMPARE_EPAY.md](./docs/COMPARE_EPAY.md) | 彩虹易支付对比与迁移 |
+| [COMPARE_VMQ.md](./docs/COMPARE_VMQ.md) | V免签对比与迁移 |
 
 ## 更新日志
 
