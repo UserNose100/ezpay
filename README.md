@@ -4,7 +4,7 @@ EzPay 是一个使用 Go 语言开发的多通道聚合收款平台，支持 USD
 
 ## 技术支持
 
-- Telegram 群组: https://t.me/OpineWorkPublish
+- Telegram 群组: https://t.me/OpineWorkOfficial
 - Telegram 频道: https://t.me/OpineWorkPublish
 
 ## 功能特性
